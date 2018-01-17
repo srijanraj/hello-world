@@ -24,7 +24,15 @@ class world{
     }
 }
 
+
 // Added new comment in here
 
 // training on git.
+
+
+class{
+    func prime(){
+        print("Function to print the prime numbers")
+    }
+}
 
