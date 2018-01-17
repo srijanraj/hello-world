@@ -29,4 +29,8 @@ class world{
         print("World")
     }
 }
-
+class{
+    func prime(){
+        print("Function to print the prime numbers")
+    }
+}
